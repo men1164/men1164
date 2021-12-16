@@ -1,4 +1,32 @@
-### Hi there 👋
+## Hi, my name is Men! 🦔
+21 years old student who loves to code frontend. Currently study in Computer Engineering, KMUTT, Thailand.
+
+### 📚 Learning:
+- JavaScript / TypeScript
+- Vue.js
+- tailwindcss
+- Firebase
+- Golang
+
+### 💻 Experienced with:
+- Web (HTML + CSS)
+- PHP
+- Laravel
+- C Programming
+
+### 🧐 Interests
+- React
+- Flutter / Dart
+- Svelt
+- Swift
+
+_Almost forgot, I'm an Apple Fanboy_ 😂
+
+### GitHub Stats
+[![men1164's GitHub stats](https://github-readme-stats.vercel.app/api?username=men1164&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=men1164&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **men1164/men1164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
