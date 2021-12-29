@@ -2,20 +2,20 @@
 21 years old student who loves to code frontend. Currently study in Computer Engineering, KMUTT, Thailand.
 
 ### 📚 Learning:
-- JavaScript / TypeScript
-- Vue.js
+- TypeScript
+- React
 - tailwindcss
 - Firebase
 - Golang
 
 ### 💻 Experienced with:
-- Web (HTML + CSS)
+- Web (HTML + CSS + JavaScript)
 - PHP
 - Laravel
+- Vue.js
 - C Programming
 
 ### 🧐 Interests
-- React
 - Flutter / Dart
 - Svelt
 - Swift
