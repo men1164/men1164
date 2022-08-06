@@ -1,19 +1,20 @@
 ## Hi, my name is Men! 🦔
-21 years old student who loves to code frontend. Currently study in Computer Engineering, KMUTT, Thailand.
+A 21 years old student who loves to code frontend. Currently study in Computer Engineering, KMUTT, Thailand.
 
 ### 📚 Learning:
 - TypeScript
-- React
-- tailwindcss
-- Firebase
+- React.js
+- Solidity
+- Web3.0 / Blockchain Technology
 - Golang
 
 ### 💻 Experienced with:
-- Web (HTML + CSS + JavaScript)
+- Vue.js
+- tailwindcss
+- Firebase
+- C Programming
 - PHP
 - Laravel
-- Vue.js
-- C Programming
 
 ### 🧐 Interests
 - Flutter / Dart
