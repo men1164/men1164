@@ -1,7 +1,7 @@
 ## Hi, my name is Men! 🦔
 A 22 years old student who loves to code frontend. Currently study in Computer Engineering, KMUTT, Thailand.
 
-💼 Currently working at [@Cleverse](https://cleverse.com/) as a Software Developer (Part-time)
+💼 Currently working at [Cleverse](https://cleverse.com/) as a Software Developer (Part-time)
 
 ### 📚 Learning:
 - TypeScript
