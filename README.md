@@ -2,11 +2,11 @@
 A 23 years old student who loves Frontend. I'm currently take a gap from full-time job.
 
 ### 💼 Work Experiences
-- [Cleverse Academy](https://academy.cleverse.com) as a Bootcamp Frontend Instructor (Feb 2023 - Nov 2023)
-- [Cleverse](https://cleverse.com/) as an Intern and Part-time Software Developer (Jun 2022 - Jan 2023)
+- Bootcamp Frontend Instructor at [Cleverse Academy](https://academy.cleverse.com) (Feb 2023 - Nov 2023)
+- Intern and Part-time Software Developer at [Cleverse](https://cleverse.com/) (Jun 2022 - Jan 2023)
 
 ### 💻 Experienced with:
-- JavaScript / TypeScript
+- HTML + CSS + JavaScript / TypeScript
 - React.js / Next.js
 - Vue.js
 - tailwindcss
