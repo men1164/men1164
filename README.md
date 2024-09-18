@@ -4,10 +4,8 @@ A 23 years old student who loves Frontend. I'm currently take a gap from full-ti
 ### 💼 Work Experiences
 - Software Engineer / BA at [Softnetics](https://www.softnetics.tech/) (Jun 2024 - Present)
 
-> === ☕️ take a break, sip good coffee ☕️ ===
-- Part-time Barista at Livid Coffee Roasters (Jan 2024 - Jun 2024)
-
-> =================================
+> ☕️ take a break, sip good coffee ☕️
+> - Part-time Barista at [Livid Coffee Roasters](https://www.instagram.com/lividcoffeeroasters/) (Jan 2024 - Jun 2024)
 
 - Bootcamp Frontend Instructor at [Cleverse Academy](https://academy.cleverse.com) (Feb 2023 - Dec 2023)
 - Intern and Part-time Software Developer at [Cleverse](https://cleverse.com/) (Jun 2022 - Jan 2023)
