@@ -1,8 +1,8 @@
 ## Hi, my name is Men! 🦔
-A 23 years old student who loves Frontend. I'm currently take a gap from full-time job.
+A 25 years old student who loves Frontend. I'm currently working at Softnetics as Product Owner.
 
 ### 💼 Work Experiences
-- Software Engineer / BA at [Softnetics](https://www.softnetics.tech/) (Jun 2024 - Present)
+- Software Engineer / BA / PO at [Softnetics](https://www.softnetics.tech/) (Jun 2024 - Present)
 
 > ☕️ take a break, sip good coffee ☕️
 > - Part-time Barista at [Livid Coffee Roasters](https://www.instagram.com/lividcoffeeroasters/) (Jan 2024 - Jun 2024)
@@ -28,12 +28,6 @@ A 23 years old student who loves Frontend. I'm currently take a gap from full-ti
 - Flutter / Dart
 - Svelt
 - Swift
-
-_Almost forgot, I'm an Apple Fanboy_ 😂
-
-
-### GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=men1164&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 [![men1164's GitHub stats](https://github-readme-stats.vercel.app/api?username=men1164&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
